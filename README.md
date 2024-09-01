@@ -25,6 +25,12 @@ Integrating Canvas with Notion with Python
 5. Copy the database_id and put it into the python script
 
 
+# Step 3.5: Link your Notion Integration to this Database
+1. In the fullscreen of your Notion database, click the 3 dots (...) at the top right of the screen
+2. Scroll down to "Connections" and click "Connect to"
+3. Choose your integration that you made in Step 2 (you may have to search for it)
+
+
 # Step 4: University's Canvas URL
 1. Go to your Canvas website (Dashboard works)
 2. Copy what's after "https://", which should be something like "university.instructure.com"
