@@ -1,5 +1,5 @@
 # Canvas-Notion-Integration
-Integrating Canvas with Notion with Python
+Integrating Canvas with Notion with Python. References are in Wiki.
 
 # Step 1: Canvas token
 1. Go to Canvas
